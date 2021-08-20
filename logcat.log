@@ -1,0 +1,85 @@
+--------- beginning of main
+08-02 05:13:09.658 I/        (18971): SS_ART_lib [I]: permission is absent: /data/app/com.tortel.syslog-BEnRrZgsTP8odhGHT30nBg==/base.apk
+08-02 05:13:09.658 I/        (18971): SS_ART_lib [I]: access to SS denied
+08-02 05:14:32.542 E/m.tortel.syslo(19189): Not starting debugger since process cannot load the jdwp agent.
+08-02 05:14:32.748 I/MultiWindowDecorSupport(19189): updateCaptionType >> DecorView@5b332d5[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+08-02 05:14:32.749 D/MultiWindowDecorSupport(19189): setCaptionType = 0, DecorView = DecorView@5b332d5[]
+08-02 05:14:32.851 D/SysLog  (19189): Fragment null, replacing
+08-02 05:14:32.862 D/SysLog  (19189): Loading settings
+08-02 05:14:32.879 D/ScrollView(19189): initGoToTop
+08-02 05:14:33.100 D/SysLog  (19189): Checking for root
+08-02 05:14:33.101 D/SysLog  (19189): Setting the checkboxes
+08-02 05:14:33.105 D/SysLog  (19189): Checking if last_kmsg and radio are available
+08-02 05:14:33.117 D/OpenGLRenderer(19189): Skia GL Pipeline
+08-02 05:14:33.124 D/EmergencyMode(19189): [EmergencyManager] android createPackageContext successful
+08-02 05:14:33.147 D/InputTransport(19189): Input channel constructed: fd=60
+08-02 05:14:33.148 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): setView = DecorView@5b332d5[FragmentMainActivity] TM=true MM=false
+08-02 05:14:33.239 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): Relayout returned: old=[0,0][800,1280] new=[0,0][800,1280] result=0x7 surface={true 2476552192} changed=true
+08-02 05:14:33.239 I/Adreno  (19189): QUALCOMM build                   : e6de3b7, I22091d40c2
+08-02 05:14:33.239 I/Adreno  (19189): Build Date                       : 08/07/19
+08-02 05:14:33.239 I/Adreno  (19189): OpenGL ES Shader Compiler Version: EV031.25.03.03
+08-02 05:14:33.239 I/Adreno  (19189): Local Branch                     : 
+08-02 05:14:33.239 I/Adreno  (19189): Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.7.5.R1.09.00.00.464.040
+08-02 05:14:33.239 I/Adreno  (19189): Remote Branch                    : NONE
+08-02 05:14:33.239 I/Adreno  (19189): Reconstruct Branch               : NOTHING
+08-02 05:14:33.239 I/Adreno  (19189): Build Config                     : S L 6.0.7 AArch32
+08-02 05:14:33.241 D/vndksupport(19189): Loading /vendor/lib/hw/gralloc.msm8937.so from current namespace instead of sphal namespace.
+08-02 05:14:33.262 I/Adreno  (19189): PFP: 0x003ff016, ME: 0x003ff041
+08-02 05:14:33.280 D/ScrollView(19189):  onsize change changed 
+08-02 05:14:33.287 I/ConfigStore(19189): android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+08-02 05:14:33.287 I/ConfigStore(19189): android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+08-02 05:14:33.290 I/OpenGLRenderer(19189): Initialized EGL, version 1.4
+08-02 05:14:33.291 D/OpenGLRenderer(19189): Swap behavior 2
+08-02 05:14:33.309 D/OpenGLRenderer(19189): eglCreateWindowSurface = 0x939967a0, 0x939d3008
+08-02 05:14:33.342 D/vndksupport(19189): Loading /vendor/lib/hw/<email omitted> from current namespace instead of sphal namespace.
+08-02 05:14:33.344 D/vndksupport(19189): Loading /vendor/lib/hw/gralloc.msm8937.so from current namespace instead of sphal namespace.
+08-02 05:14:33.562 D/SysLog  (19189): Root not available
+08-02 05:14:33.614 D/SysLog  (19189): Enabling log button: true
+08-02 05:14:33.655 D/ScrollView(19189):  onsize change changed 
+08-02 05:14:33.686 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): MSG_RESIZED: frame=[0,0][800,1280] ci=[0,32][0,0] vi=[0,32][0,0] or=1
+08-02 05:14:33.686 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): MSG_WINDOW_FOCUS_CHANGED 1 1
+08-02 05:14:33.686 D/InputMethodManager(19189): prepareNavigationBarInfo() DecorView@5b332d5[FragmentMainActivity]
+08-02 05:14:33.687 D/InputMethodManager(19189): getNavigationBarColor() -855310
+08-02 05:14:33.733 D/InputMethodManager(19189): prepareNavigationBarInfo() DecorView@5b332d5[FragmentMainActivity]
+08-02 05:14:33.733 D/InputMethodManager(19189): getNavigationBarColor() -855310
+08-02 05:14:33.734 V/InputMethodManager(19189): Starting input: tba=com.tortel.syslog ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+08-02 05:14:33.734 D/InputMethodManager(19189): startInputInner - Id : 0
+08-02 05:14:33.734 I/InputMethodManager(19189): startInputInner - mService.startInputOrWindowGainedFocus
+08-02 05:14:33.746 D/InputTransport(19189): Input channel constructed: fd=66
+08-02 05:14:33.768 D/InputMethodManager(19189): prepareNavigationBarInfo() DecorView@5b332d5[FragmentMainActivity]
+08-02 05:14:33.768 D/InputMethodManager(19189): getNavigationBarColor() -855310
+08-02 05:14:33.768 V/InputMethodManager(19189): Starting input: tba=com.tortel.syslog ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+08-02 05:14:33.768 D/InputMethodManager(19189): startInputInner - Id : 0
+08-02 05:14:50.816 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): ViewPostIme pointer 0
+08-02 05:14:50.968 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): ViewPostIme pointer 1
+08-02 05:14:51.037 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): MSG_WINDOW_FOCUS_CHANGED 0 1
+08-02 05:14:51.037 D/InputMethodManager(19189): prepareNavigationBarInfo() DecorView@5b332d5[FragmentMainActivity]
+08-02 05:14:51.038 D/InputMethodManager(19189): getNavigationBarColor() -855310
+08-02 05:14:51.345 D/OpenGLRenderer(19189): eglDestroySurface = 0x939967a0, 0x939d3000
+08-02 05:14:51.379 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): Relayout returned: old=[0,0][800,1280] new=[0,0][800,1280] result=0x5 surface={false 0} changed=true
+08-02 05:14:52.222 D/InputTransport(19189): Input channel destroyed: fd=66
+08-02 05:14:53.986 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): stopped(true) old=false
+08-02 05:14:54.027 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): Relayout returned: old=[0,0][800,1280] new=[0,0][800,1280] result=0x1 surface={false 0} changed=false
+08-02 05:14:59.673 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): Relayout returned: old=[0,0][800,1280] new=[0,0][800,1280] result=0x1 surface={false 0} changed=false
+08-02 05:14:59.674 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): stopped(false) old=true
+08-02 05:14:59.691 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): stopped(false) old=false
+08-02 05:14:59.723 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): Relayout returned: old=[0,0][800,1280] new=[0,0][800,1280] result=0x7 surface={true 2476552192} changed=true
+08-02 05:14:59.747 D/OpenGLRenderer(19189): eglCreateWindowSurface = 0xa6816660, 0x939d3008
+08-02 05:14:59.782 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): MSG_WINDOW_FOCUS_CHANGED 1 1
+08-02 05:14:59.783 D/InputMethodManager(19189): prepareNavigationBarInfo() DecorView@5b332d5[FragmentMainActivity]
+08-02 05:14:59.783 D/InputMethodManager(19189): getNavigationBarColor() -855310
+08-02 05:14:59.797 D/InputMethodManager(19189): prepareNavigationBarInfo() DecorView@5b332d5[FragmentMainActivity]
+08-02 05:14:59.798 D/InputMethodManager(19189): getNavigationBarColor() -855310
+08-02 05:14:59.798 V/InputMethodManager(19189): Starting input: tba=com.tortel.syslog ic=null mNaviBarColor -855310 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+08-02 05:14:59.798 D/InputMethodManager(19189): startInputInner - Id : 0
+08-02 05:14:59.798 I/InputMethodManager(19189): startInputInner - mService.startInputOrWindowGainedFocus
+08-02 05:14:59.851 D/InputTransport(19189): Input channel constructed: fd=68
+08-02 05:15:01.860 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): ViewPostIme pointer 0
+08-02 05:15:02.047 D/ViewRootImpl@ffd0343[FragmentMainActivity](19189): ViewPostIme pointer 1
+08-02 05:15:02.109 V/SysLog  (19189): Path: /data/user/0/com.tortel.syslog/cache/logs/2021-08-02_05.15/
+08-02 05:15:02.125 V/SysLog  (19189): Done grabbing logs
+08-02 05:15:02.138 D/Dialog  (19189): mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+08-02 05:15:02.147 I/DecorView(19189): mWindow.mActivityCurrentConfig is null.
+08-02 05:15:02.148 I/MultiWindowDecorSupport(19189): updateCaptionType >> DecorView@35ce0d1[], isFloating: true, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: false
+08-02 05:15:02.148 D/MultiWindowDecorSupport(19189): setCaptionType = 0, DecorView = DecorView@35ce0d1[]
+08-02 05:15:02.199 D/ScrollView(19189): initGoToTop
